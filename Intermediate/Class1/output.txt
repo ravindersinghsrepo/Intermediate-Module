@@ -1,0 +1,2 @@
+9
+Number 36is :Not Prime
