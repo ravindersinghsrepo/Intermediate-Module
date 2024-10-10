@@ -1,9 +1,6 @@
 // import java.util.*;
 
 public class class1 {
-    public static int sdw(){
-        return 1;
-    }
     public static void printArr(int[][]arr){
         
         for(int i = 0 ;i < arr.length ;i++){
