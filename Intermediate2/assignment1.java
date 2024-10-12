@@ -1,4 +1,4 @@
-public class assignment {
+public class assignment1 {
     public static void printArr(int[][]arr){
         int n = arr.length ; 
         int m = arr[0].length ; 
