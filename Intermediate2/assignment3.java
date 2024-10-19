@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class assignment2 {
+public class assignment3 {
     public int elementRemoval(int[] A) {
         int n = A.length ; 
         int minSum = 0 ; 
