@@ -1,3 +1,5 @@
+package DSA_Revision.Intermediate.Intermediate1.Class1;
+
 import java.util.Scanner;
 
 public class lecturecode{
