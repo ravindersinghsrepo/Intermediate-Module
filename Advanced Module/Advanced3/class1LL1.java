@@ -1,8 +1,7 @@
 import java.util.*;
-import DSA_Revision.*;
 
 public class class1LL1 {
-
+ 
     public static Node getNodeAtK(Node head , int k ){
         Node temp = head ; 
         for(int i = 1 ; i<=k ;i++){
