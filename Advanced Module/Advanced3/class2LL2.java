@@ -69,7 +69,6 @@ public class class2LL2 {
         return false ; 
     }
 
-    
     public static void main(String[]args){
 
     }
